@@ -1,8 +1,8 @@
 export default {
   home: '首页',
   login: '登录',
-  components: '组件',
-  count_to_page: '数字渐变',
+  components: '系统管理',
+  count_to_page: '数据字典',
   tables_page: '多功能表格',
   split_pane_page: '分割窗口',
   markdown_page: 'Markdown编辑器',
@@ -10,8 +10,11 @@ export default {
   icons_page: '自定义图标',
   img_cropper_page: '图片编辑器',
   update: '上传数据',
-  join_page: 'QQ群',
-  doc: '文档',
+  join_page: '议题',
+  doc: '会议预订',
+  'hys': '会议室',
+
+  'hy': '会议',
   update_table_page: '上传CSV文件',
   update_paste_page: '粘贴表格数据',
   multilevel: '多级菜单',
@@ -42,5 +45,5 @@ export default {
   tree_table_page: '树状表格',
   org_tree_page: '组织结构树',
   drag_drawer_page: '可拖动抽屉',
-  tree_select_page: '树状下拉选择器'
+  tree_select_page: '政务联络人'
 }
